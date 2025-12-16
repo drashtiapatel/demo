@@ -16,5 +16,9 @@ passworrd page
 not happy to use git
 
 git is not good subject
+<<<<<<< HEAD
 
 hiii git
+=======
+headache
+>>>>>>> 33a0930 (headache)
